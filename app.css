@@ -1,0 +1,18 @@
+Screen {
+    layout: vertical;
+}
+
+#code {
+    height: 10;
+    border: round green;
+}
+
+#timeline {
+    height: 3;
+    border: round blue;
+}
+
+#variables {
+    height: 20;
+    border: round yellow;
+}
